@@ -1,2 +1,2 @@
 # zulfikar-resolusi
-Respository untuk menyimpan resolusi
+Insya Allah Bisa!
