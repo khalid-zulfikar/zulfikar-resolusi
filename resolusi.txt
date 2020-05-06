@@ -1,0 +1,3 @@
+zulfikar-resolusi :
+- Konsisten belajar bahasa pemograman terbaru atau yang diperlukan untuk pengembangan karir
+- Dimulai dari menyelesaikan pelatihan HTML, CSS dan Javascript yang disediakan oleh : https://digitalent.kominfo.go.id/
